@@ -1,2 +1,2 @@
 # Power-BI
-Four interactive reports made in power bi with their respective data 
+Four interactive reports made in Power BI with their respective data 
